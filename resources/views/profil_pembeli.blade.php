@@ -7,5 +7,6 @@
 </head>
 <body>
     <p style="color:pink">ini halaman profil</p>
+    <p>tambah tekssss</p>
 </body>
 </html>
