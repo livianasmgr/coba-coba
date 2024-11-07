@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <p>ini halaman profil</p>
+    <p style="color:pink">ini halaman profil</p>
 </body>
 </html>
